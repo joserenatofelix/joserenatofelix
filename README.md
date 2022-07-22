@@ -1,5 +1,5 @@
 <div>
-  <img align="right" alt="Renato" height="250em" width="250em"  <img align="right" 
+  <img align="right" alt="Renato" height="100em" width="100em"  <img align="right" 
   src="https://media0.giphy.com/media/E6jscXfv3AkWQ/giphy.gif"
   width="40%"/>
 
