@@ -6,7 +6,7 @@
   <h1 align="left">Olá, Sou o Renato Felix, Desenvolvedor Front-End 👨‍💻</h1>
   <div align="left">
     <p> ▸ 📌 Formado em Analise em Desenvolvimento de Sistemas e 📌 Pós Graduação em Ciência de Dados. </p>
-    <p> ▸ 💬 Desenvolvimento em linguagem como: <b>HTML, CSS, PHP, JavaScripts e Python. </p>
+    <p> ▸ 💬 Desenvolvimento em linguagem como: <p> HTML | CSS | JAVA | JavaScript | PHP | C# | Python. </p>
     <p> ▸ 💬 Frameworks: Android Studio, Angular, Nodes.js, Sprigboot e Bootstrap.</p>
     <p> ▸ 💻 Meios de contato: </p>
      <div align="left">
