@@ -3,7 +3,7 @@
   src="https://media0.giphy.com/media/E6jscXfv3AkWQ/giphy.gif"
   width="40%"/>
 
-  <h1 align="left">Olá, Sou o Renato Felix, Desenvolvedor Front-End 👨‍💻</h1>
+  <h1 align="left">Olá, Sou o Renato Felix, Desenvolvedor Back-End 👨‍💻</h1>
   <div align="left">
     <p> ▸ 📌 Formado em Analise em Desenvolvimento de Sistemas e Pós Graduação em Ciência de Dados. </p>
     <p> ▸ 💬 Desenvolvimento em linguagem como: <p> HTML | CSS | JavaScript | Typescripts | JAVA | Python. </p>
