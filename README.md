@@ -7,7 +7,7 @@
   <div align="left">
     <p> ▸ 📌 Formado em Analise em Desenvolvimento de Sistemas e Pós Graduado em Ciência de Dados. </p>
     <p> ▸ 💬 Desenvolvimento em linguagem como: HTML | CSS | JavaScript | Typescripts | JAVA | Python. </p>
-    <p> ▸ 💬 Frameworks: Angular | Android Studio | Nodes | React | Sprigboot | Bootstrap.</p> br
+    <p> ▸ 💬 Frameworks: Angular | Android Studio | Nodes | React | Sprigboot | Bootstrap.</p>
     <p> ▸ 💻 Meios de contato: </p>
      <div align="left">
        <a href="https://www.linkedin.com/in/joserenatofelix/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
