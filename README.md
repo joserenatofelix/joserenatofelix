@@ -6,7 +6,7 @@
   <h1 align="left">Olá, Sou o Renato Felix, Desenvolvedor FullStack 👨‍💻</h1>
   <div align="left">
     <p> ▸ 📌 Formado em Analise em Desenvolvimento de Sistemas e Pós Graduado em Ciência de Dados. </p>
-    <p text-align=justify> ▸ 💬 Olá meu nome é Renato, 48 anos, atuei por 20 anos em telecom e Infraestrutura de redes, sou formado em analise em desenvolvimento de sistemas e pós graduado em ciências de dados, já atuo a 5 anos com desenvolvimento de software atuando como front-end e back-end, desenvolvendo e automatizando processos, comunicação via API RESTful e integrações com bancos de dados SQL e NoSQL, como MySQL e MongoDB, garantindo a eficiência no armazenamento e recuperação de dados, aplicações com microsserviços, utilizando boas práticas de desenvolvimento como SOLID, Low Code e Clean Code, sobre CI/CD trabalhei com o Jenkins para o uso de jobs e pipelines, com serviços em nuvem AWS Azure e Google Cloud. Metodologias ágeis, como Jira, Kankan e Scrum para as tarefas, tasks, refinamentos, Confluence para nossa documentação.</p>
+    <p text-align=justify> ▸ 💬 Atuei por 20 anos em telecom e Infraestrutura de redes, agora com desenvolvimento estou a 5 anos trabalhando com front-end e back-end, desenvolvendo e automatizando processos, comunicação via API RESTful e integrações com bancos de dados SQL e NoSQL, como MySQL e MongoDB, garantindo a eficiência no armazenamento e recuperação de dados, aplicações com microsserviços, utilizando boas práticas de desenvolvimento como SOLID, Low Code e Clean Code, sobre CI/CD trabalhei com o Jenkins para o uso de jobs e pipelines, com serviços em nuvem AWS Azure e Google Cloud. Metodologias ágeis, como Jira, Kankan e Scrum para as tarefas, tasks, refinamentos e confluence para nossa documentação.</p>
 <p>💻 My portfolio: https://joserenatofelix.github.io/Portfolio/</p></br>
     <p> ▸ 💻 Meios de contato: </p>
      <div align="left">
@@ -22,14 +22,16 @@
 <br><br>
 
 <div align="left">
-  <h1> <b> ⚒ Tech Skills </b> </h1>
-  <img align="center" alt="html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="css3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <h1> <b> ⚒ Tech Skills </b> </h1>  
+  <img align="center" alt="html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+   <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
-  <img align="center" alt="java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="vscode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -40,8 +42,9 @@
 <div align="center">
   <h1> <b> ⚙️ GitHub Analytics </b> </h1>
   <a href="https://github.com/joserenatofelix">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joserenatofelix&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joserenatofelix&layout=compact&langs_count=7&theme=radical"/></a>
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joserenatofelix&theme=radical"/> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=joserenatofelix&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joserenatofelix&layout=compact&langs_count=7&theme=radical"/></a>
   
   ![Snake animation](https://github.com/joserenatofelix/joserenatofelix/blob/output/github-contribution-grid-snake.svg)
   
