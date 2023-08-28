@@ -1,8 +1,8 @@
 <div>
-  <img align="right" alt="Renato" height="100em" width="100em"  src="https://tenor.com/bQ8uA.gif"
+  <img align="right" alt="Renato" height="100em" width="100em"  src="dev_animado.gif"
   width="40%"/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fjalla+One&weight=100&size=35&pause=1000&color=4682B4&multiline=true&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Renato+Felix;Sou+Desenvolvedor+FullStack+(Java+e+Angular))](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=600&size=28&pause=1000&color=1518F7&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Renato+Felix;Sou+Desenvolvedor+FullStack;(Java+e+Angular))](https://git.io/typing-svg)
 
   <div align="left">
     <p> ▸ 📌 Formado em Analise em Desenvolvimento de Sistemas e Pós Graduado em Ciência de Dados. </p>
