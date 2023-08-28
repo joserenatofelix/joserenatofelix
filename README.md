@@ -3,6 +3,8 @@
   src="https://media0.giphy.com/media/E6jscXfv3AkWQ/giphy.gif"
   width="40%"/>
 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006256&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+éRenato+Felix;Eu+sou+Desenvolvedor+FullStack!+:%29)](https://git.io/typing-svg)
+  
   <h1 align="left">Olá, Sou o Renato Felix, Desenvolvedor FullStack 👨‍💻</h1>
   <div align="left">
     <p> ▸ 📌 Formado em Analise em Desenvolvimento de Sistemas e Pós Graduado em Ciência de Dados. </p>
@@ -21,6 +23,11 @@
 </div>
 
 <br><br>
+
+<h2>Visitor count</h2>
+  <br>
+  <img src="https://profile-counter.glitch.me/{ wesleydematos }/count.svg">
+ </div>
 
 <div align="left">
   <h1> <b> ⚒ Tech Skills </b> </h1>  
@@ -47,9 +54,10 @@
 <img alt="git" src="https://img.shields.io/badge/-Git-FF6000?style=flat-square&logo=git&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-npm-FF6000?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-FF6000?style=flat-square&logo=yarn&logoColor=white" />
- </div>
+ </div><br>
+ 
 
-<br><br><br>
+<br><br>
 
 <div align="center">
   <h1> <b> ⚙️ GitHub Analytics </b> </h1>
