@@ -3,8 +3,8 @@
   src="https://media0.giphy.com/media/E6jscXfv3AkWQ/giphy.gif"
   width="40%"/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006256&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+éRenato+Felix;Eu+sou+Desenvolvedor+FullStack!+:%29)](https://git.io/typing-svg)
-  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fjalla+One&weight=100&size=35&pause=1000&color=4682B4&multiline=true&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Renato+Felix;Sou+Desenvolvedor+FullStack+(Java+e+Angular))](https://git.io/typing-svg)
+
   <h1 align="left">Olá, Sou o Renato Felix, Desenvolvedor FullStack 👨‍💻</h1>
   <div align="left">
     <p> ▸ 📌 Formado em Analise em Desenvolvimento de Sistemas e Pós Graduado em Ciência de Dados. </p>
@@ -26,7 +26,7 @@
 
 <h2>Visitor count</h2>
   <br>
-  <img src="https://profile-counter.glitch.me/{ wesleydematos }/count.svg">
+  <img src="https://profile-counter.glitch.me/{ joserenatofelix }/count.svg">
  </div>
 
 <div align="left">
