@@ -1,11 +1,9 @@
 <div>
-  <img align="right" alt="Renato" height="100em" width="100em"  <img align="right" 
-  src="https://media0.giphy.com/media/E6jscXfv3AkWQ/giphy.gif"
+  <img align="right" alt="Renato" height="100em" width="100em"  src="https://tenor.com/bQ8uA.gif"
   width="40%"/>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fjalla+One&weight=100&size=35&pause=1000&color=4682B4&multiline=true&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Renato+Felix;Sou+Desenvolvedor+FullStack+(Java+e+Angular))](https://git.io/typing-svg)
 
-  <h1 align="left">Olá, Sou o Renato Felix, Desenvolvedor FullStack 👨‍💻</h1>
   <div align="left">
     <p> ▸ 📌 Formado em Analise em Desenvolvimento de Sistemas e Pós Graduado em Ciência de Dados. </p>
     <p text-align: justify> ▸ 💬 Atuei por 20 anos em telecom e Infraestrutura de redes, agora com desenvolvimento estou a 5 anos trabalhando com front-end e back-end, desenvolvendo e automatizando processos, comunicação via API RESTful e integrações com bancos de dados SQL e NoSQL, como MySQL e MongoDB, garantindo a eficiência no armazenamento e recuperação de dados, aplicações com microsserviços, utilizando boas práticas de desenvolvimento como SOLID, Low Code e Clean Code, sobre CI/CD trabalhei com o Jenkins para o uso de jobs e pipelines, com serviços em nuvem AWS Azure e Google Cloud. </br>
