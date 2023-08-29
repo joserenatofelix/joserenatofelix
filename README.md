@@ -17,12 +17,11 @@
     </div>
   </div>
 </div><br>
-
-<h2>Visitor count</h2>
+ 
+ <h1> <b> Visitor count </b> </h1>
   <br>
   <img src="https://profile-counter.glitch.me/{ joserenatofelix }/count.svg">
- </div>
-
+ 
 <div align="left">
   <h1> <b> ⚒ Tech Skills </b> </h1>  
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="css 3" src="https://img.shields.io/badge/-CSS3-F05032?style=flat-square&logo=css3&logoColor=white" />
@@ -42,8 +41,9 @@
 <img alt="Nest" src="https://img.shields.io/badge/-Nest-008B8B?style=flat-square&logo=nestJs&logoColor=white" />
 <img alt="Jest" src="https://img.shields.io/badge/-Jest-008B8B?style=flat-square&logo=jest&logoColor=white" />
 <img alt="python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=python&logoColor=white" />
-<img alt="pandas" src="https://img.shields.io/badge/-Pandas-13aa52?style=flat-square&logo=pandas&logoColor=white" /> 
-<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter Notebook-13aa52?style=flat-square&logo=jupyter&logoColor=white" />                                    <img alt="mySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=mysql&logoColor=white" /> 
+<img alt="pandas" src="https://img.shields.io/badge/-Pandas-13aa52?style=flat-square&logo=pandas&logoColor=white" />     
+<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter Notebook-13aa52?style=flat-square&logo=jupyter&logoColor=white" />
+<img alt="mySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=mysql&logoColor=white" /> 
 <img alt="ruby" src="https://img.shields.io/badge/-Ruby-FF0000?style=flat-square&logo=ruby&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-FF6000?style=flat-square&logo=git&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-npm-FF6000?style=flat-square&logo=npm&logoColor=white" />
