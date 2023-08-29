@@ -16,9 +16,7 @@
        <a href="https://github.com/joserenatofelix/Curriculo/raw/master/assets/Jose%20Renato%20Felix%20da%20Silva.pdf"><img src="https://img.shields.io/badge/Curriculo-005571?style=for-the-badge&logo=Salesforce&logoColor=white"target="_blank"></a>
     </div>
   </div>
-</div>
-
-<br><br>
+</div><br>
 
 <h2>Visitor count</h2>
   <br>
@@ -51,10 +49,6 @@
 <img alt="npm" src="https://img.shields.io/badge/-npm-FF6000?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-FF6000?style=flat-square&logo=yarn&logoColor=white" />
  </div><br>
-
-
-<br><br>
-
 <div align="center">
   <h1> <b> ⚙️ GitHub Analytics </b> </h1>
   <a href="https://github.com/joserenatofelix">
