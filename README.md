@@ -1,6 +1,6 @@
 <img src="img/dev_animado.gif" align="right" height="380" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+Meu+Nome+%C3%A9+Renato+Felix;Sou+Desenvolvedor+FullStack;Java+e+Angular)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=28&pause=1000&color=237BA1&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+Meu+Nome+%C3%A9+Renato+Felix;Sou+Desenvolvedor+Full-Stack)](https://git.io/typing-svg)
 
 <p align="justify">
     ▸📌 Formado em Analise em Desenvolvimento de Sistemas e Pós Graduado em Ciência de Dados.<br>
