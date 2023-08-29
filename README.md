@@ -1,5 +1,4 @@
 <img src="img/dev_animado.gif" align="right" height="220" width="210" />
-<img src="img/dev_animado.gif" align="right" height="220" width="210" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+Meu+Nome+%C3%A9+Renato+Felix;Sou+Desenvolvedor+FullStack;Java+e+Angular)](https://git.io/typing-svg)
 
