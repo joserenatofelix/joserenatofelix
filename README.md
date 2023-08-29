@@ -1,9 +1,8 @@
-<img align="right" alt="Renato" height="100em" width="100em"  src="dev_animado.gif"
-  width="40%"/>
+<img align="right" alt="Renato" height="100" width="100" src="img/dev_animado.gif" width="40%"/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=600&size=28&pause=1000&color=1518F7&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Renato+Felix;Sou+Desenvolvedor+FullStack; (Java+e+Angular))](https://git.io/typing-svg)
+[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=600&size=28&pause=1000&color=1518F7&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Renato+Felix;Sou+Desenvolvedor+FullStack;(Java+e+Angular)>)](https://git.io/typing-svg)
 
-  <p> ▸ 📌 Formado em Analise em Desenvolvimento de Sistemas e Pós Graduado em Ciência de Dados. </p>
+<p> ▸ 📌 Formado em Analise em Desenvolvimento de Sistemas e Pós Graduado em Ciência de Dados. </p>
   <p text-align: justify> ▸ 💬 Atuei por 20 anos em telecom e Infraestrutura de redes, agora com desenvolvimento estou a 5 anos trabalhando com front-end e back-end, desenvolvendo e automatizando processos, comunicação via API RESTful e integrações com bancos de dados SQL e NoSQL, como MySQL e MongoDB, garantindo a eficiência no armazenamento e recuperação de dados, aplicações com microsserviços, utilizando boas práticas de desenvolvimento como SOLID, Low Code e Clean Code, sobre CI/CD trabalhei com o Jenkins para o uso de jobs e pipelines, com serviços em nuvem AWS Azure e Google Cloud. </br>
       💬  Metodologias ágeis, como Jira, Kankan e Scrum para as tarefas, tasks, refinamentos e confluence para nossa documentação.</p> </br>
 <p>💻 My portfolio: https://joserenatofelix.github.io/Portfolio/</p></br>
@@ -51,7 +50,7 @@
 <img alt="npm" src="https://img.shields.io/badge/-npm-FF6000?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-FF6000?style=flat-square&logo=yarn&logoColor=white" />
  </div><br>
- 
+
 
 <br><br>
 
@@ -63,7 +62,6 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joserenatofelix&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=joserenatofelix&theme=radical&hide_border=true"/>
 
-  
-  ![Snake animation](https://github.com/joserenatofelix/joserenatofelix/blob/output/github-contribution-grid-snake.svg)
-  
+![Snake animation](https://github.com/joserenatofelix/joserenatofelix/blob/output/github-contribution-grid-snake.svg)
+
   </div>
