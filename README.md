@@ -18,7 +18,7 @@
   </div>
 </div><br>
  
- <h1> <b> Visitor count </b> </h1>
+ <h1> 🤗 <b> Visitor count </b> </h1>
   <br>
   <img src="https://profile-counter.glitch.me/{ joserenatofelix }/count.svg">
  
