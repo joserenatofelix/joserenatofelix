@@ -4,7 +4,7 @@
 
 <p align="justify">
     ▸📌 Formado em Analise em Desenvolvimento de Sistemas e Pós Graduado em Ciência de Dados.<br>
-    ▸ 💬 Atuei por 20 anos em telecom e Infraestrutura de redes, no desenvolvimento já são mais de 5 anos trabalhando com front-end e back-end, desenvolvendo e automatizando processos, comunicação via API RESTful e integrações com bancos de dados Relacional e Não-Relacional, garantindo a eficiência no armazenamento e recuperação de dados, aplicações com microsserviços, utilizando boas práticas de desenvolvimento , trabalhando com serviços em nuvem AWS, Azure e Google Cloud.<br>
+    ▸ 💬 Atuei por 20 anos em telecom e Infraestrutura de redes, atualmete trabalho em desenvolvimento FullStack, desenvolvendo e automatizando processos, comunicação via API RESTful e integrações com bancos de dados Relacional e Não-Relacional, garantindo a eficiência no armazenamento e recuperação de dados, aplicações com microserviços, utilizando boas práticas de desenvolvimento, trabalhando com serviços em nuvem AWS, Microsoft Azure e Google Cloud.<br>
     ▸ 💬  Metodologias ágeis, como Jira, Kankan e Scrum para as tarefas, tasks, refinamentos e confluence para nossa documentação. </p>
 <p>💻 My portfolio: https://joserenatofelix.github.io/Portfolio/</p></br>
     <p> ▸ 💻 Meios de contato: </p>
