@@ -29,44 +29,97 @@
 
 ---
 
-### 🛠️ Tech Skills  
+### 🛠️ Tecnologias e Ferramentas
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-F05032?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-be7abb?style=flat-square&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-be7abb?style=flat-square&logo=sass&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-be7abb?style=flat-square&logo=tailwindcss&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-be7abb?style=flat-square&logo=styled-components&logoColor=white)
-![ChakraUI](https://img.shields.io/badge/-ChakraUI-be7abb?style=flat-square&logo=chakraUI&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-8a2be2?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-8a2be2?style=flat-square&logo=typescript&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-8a2be2?style=flat-square&logo=jQuery&logoColor=white)
-![React JS](https://img.shields.io/badge/-React%20JS-007ACC?style=flat-square&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-007ACC?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-007ACC?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-008B8B?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-008B8B?style=flat-square&logo=express&logoColor=white)
-![Nest](https://img.shields.io/badge/-Nest-008B8B?style=flat-square&logo=nestjs&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-008B8B?style=flat-square&logo=jest&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-13aa52?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-13aa52?style=flat-square&logo=jupyter&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=mysql&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-FF0000?style=flat-square&logo=ruby&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-FF6000?style=flat-square&logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/-npm-FF6000?style=flat-square&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/-Yarn-FF6000?style=flat-square&logo=yarn&logoColor=white)
+Aqui estão algumas das tecnologias com as quais tenho trabalhado:
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br><strong>Java</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="ApringBoot" />
+      <br><strong>SpringBoot</strong>
+    </td>    
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+      <br><strong>Angular.js</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="Laravel" />
+      <br><strong>React</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="PHP" />
+      <br><strong>DotNet</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+      <br><strong>JavaScript</strong>
+    </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+      <br><strong>TypeScript</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br><strong>HTML5</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br><strong>CSS3</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      <br><strong>Tailwind</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br><strong>MongoDB</strong>
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+        <br><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+      <br><strong>Azure</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br><strong>AWS</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br><strong>Docker</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Analytics  
+### 📊 Minhas Estatísticas no GitHub  
 
-<a href="https://github.com/joserenatofelix">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joserenatofelix&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joserenatofelix&layout=compact&langs_count=7&theme=radical"/>
-</a>
+<div style="display:flex; gap:2em; flex-wrap:nowrap;">
+  <a href="https://github.com/joserenatofelix">
+    <img height="180em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joserenatofelix&theme=radical" />
+  </a>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joserenatofelix&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=joserenatofelix&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=joserenatofelix&theme=radical&hide_border=true" />
+</div>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=joserenatofelix&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=joserenatofelix&theme=radical&hide_border=true"/>
 
-![Snake animation](https://github.com/joserenatofelix/joserenatofelix/blob/output/github-contribution-grid-snake.svg)
+
